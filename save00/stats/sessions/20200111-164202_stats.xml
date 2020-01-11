@@ -1,7 +1,7 @@
 <Stats BUILD_NAME="Noita-Early-Access-Build-Sep 24 2019-16:57:41" >
-  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="30" gold="235" gold_all="255" gold_infinite="0" heart_containers="0" hp="100" items="8" kicks="3" killed_by="" killed_by_extra="" places_visited="2" playtime="533.767" playtime_str="0:08:53" projectiles_shot="129" world_seed="185239016" >
+  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="43" gold="103" gold_all="298" gold_infinite="0" heart_containers="0" hp="100" items="15" kicks="3" killed_by="" killed_by_extra="" places_visited="3" playtime="791.083" playtime_str="0:13:11" projectiles_shot="199" world_seed="185239016" >
   </stats>
-  <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="30" gold="235" gold_all="255" gold_infinite="0" heart_containers="0" hp="100" items="8" kicks="3" killed_by="" killed_by_extra="" places_visited="2" playtime="531.9" playtime_str="0:08:51" projectiles_shot="129" world_seed="185239016" >
+  <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="43" gold="103" gold_all="298" gold_infinite="0" heart_containers="0" hp="100" items="15" kicks="3" killed_by="" killed_by_extra="" places_visited="3" playtime="789.2" playtime_str="0:13:09" projectiles_shot="199" world_seed="185239016" >
   </biome_baseline>
   <item_map>
     <impl::ConfigItemStats name="Antique Rapid bolt wand" pos.x="966.698" pos.y="119.125" >
@@ -62,9 +62,33 @@
     </impl::ConfigItemStats>
     <impl::ConfigItemStats name="$perk_bleed_slime" pos.x="32.7752" pos.y="1418" >
     </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="-247.43" pos.y="1841.42" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="-248.014" pos.y="1845.95" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="-308.195" pos.y="1816.1" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Big Rapid bolt wand" pos.x="-362.078" pos.y="1737.07" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="default_gun" pos.x="-367.592" pos.y="1737" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="57.4469" pos.y="2251.93" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Super Rapid bolt wand" pos.x="-251.918" pos.y="2407" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Full health regeneration" pos.x="-443.516" pos.y="2884.68" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$item_spell_refresh" pos.x="-414.945" pos.y="2892.21" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Triple Rapid bolt wand" pos.x="-274.273" pos.y="2923" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$perk_electricity" pos.x="48.4546" pos.y="2954" >
+    </impl::ConfigItemStats>
   </item_map>
   <biomes_visited>
     <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
     </E>
     <E key="$biome_holymountain" value="1" >
     </E>

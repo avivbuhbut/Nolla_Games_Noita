@@ -1,42 +1,60 @@
-<Stats deaths="76" kills="4" player_kills="0" player_projectile_count="0" >
+<Stats deaths="111" kills="4" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
     <E key="NULL | $damage_explosion" value="5" >
     </E>
-    <E key="NULL | $damage_fire" value="13" >
+    <E key="NULL | $damage_fire" value="14" >
     </E>
-    <E key="NULL | $damage_physicshit" value="4" >
+    <E key="NULL | $damage_physicshit" value="6" >
+    </E>
+    <E key="NULL | damage from material: freezing liquid" value="1" >
     </E>
     <E key="NULL | damage from material: freezing vapour" value="4" >
     </E>
-    <E key="bat | $damage_melee" value="11" >
+    <E key="NULL | damage from material: toxic gas" value="1" >
+    </E>
+    <E key="bat | $damage_melee" value="14" >
     </E>
     <E key="firebug | $damage_fire" value="1" >
     </E>
+    <E key="firebug | $damage_melee" value="1" >
+    </E>
     <E key="giant | $damage_melee" value="1" >
     </E>
-    <E key="iceskull | $damage_ice" value="3" >
+    <E key="iceskull | $damage_ice" value="5" >
     </E>
-    <E key="iceskull | $damage_melee" value="1" >
+    <E key="iceskull | $damage_melee" value="4" >
     </E>
     <E key="miner | $damage_melee" value="2" >
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="9" >
+    <E key="player | $damage_projectile" value="10" >
     </E>
-    <E key="scavenger_grenade | $damage_melee" value="2" >
+    <E key="scavenger_grenade | $damage_melee" value="4" >
     </E>
-    <E key="scavenger_grenade | $damage_projectile" value="1" >
+    <E key="scavenger_grenade | $damage_projectile" value="8" >
+    </E>
+    <E key="scavenger_leader | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_smg | $damage_explosion" value="1" >
     </E>
     <E key="scavenger_smg | $damage_melee" value="2" >
     </E>
+    <E key="scavenger_smg | $damage_projectile" value="2" >
+    </E>
     <E key="shotgunner | $damage_melee" value="1" >
     </E>
-    <E key="shotgunner | $damage_projectile" value="7" >
+    <E key="shotgunner | $damage_projectile" value="10" >
     </E>
     <E key="slimeshooter | $damage_explosion" value="2" >
     </E>
-    <E key="slimeshooter | $damage_projectile" value="2" >
+    <E key="slimeshooter | $damage_projectile" value="3" >
+    </E>
+    <E key="sniper | $damage_projectile" value="1" >
+    </E>
+    <E key="tank | $damage_projectile" value="1" >
     </E>
     <E key="tank_rocket | $damage_explosion" value="2" >
     </E>

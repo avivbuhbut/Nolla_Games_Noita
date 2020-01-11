@@ -1,6 +1,6 @@
-<Stats deaths="21" kills="10" player_kills="0" player_projectile_count="0" >
+<Stats deaths="25" kills="14" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="1" >
+    <E key="NULL | $damage_drowning" value="3" >
     </E>
     <E key="NULL | $damage_explosion" value="5" >
     </E>
@@ -12,9 +12,11 @@
     </E>
     <E key="bigbat | $damage_melee" value="1" >
     </E>
+    <E key="iceskull | $damage_explosion" value="1" >
+    </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="4" >
+    <E key="player | $damage_projectile" value="5" >
     </E>
     <E key="rat | $damage_melee" value="3" >
     </E>
@@ -22,9 +24,11 @@
   <kill_map>
     <E key="firebug" value="1" >
     </E>
+    <E key="physics_barrel_radioactive" value="1" >
+    </E>
     <E key="physics_lantern_small" value="1" >
     </E>
-    <E key="rat" value="8" >
+    <E key="rat" value="11" >
     </E>
   </kill_map>
 </Stats>

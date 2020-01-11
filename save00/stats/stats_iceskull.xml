@@ -1,16 +1,30 @@
-<Stats deaths="2" kills="11" player_kills="0" player_projectile_count="0" >
+<Stats deaths="8" kills="21" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="iceskull | $damage_ice" value="2" >
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="iceskull | $damage_ice" value="3" >
+    </E>
+    <E key="player | $damage_projectile" value="2" >
+    </E>
+    <E key="scavenger_leader | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_smg | $damage_melee" value="1" >
     </E>
   </death_map>
   <kill_map>
-    <E key="iceskull" value="2" >
+    <E key="iceskull" value="3" >
     </E>
-    <E key="rat" value="4" >
+    <E key="rat" value="9" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
     </E>
     <E key="scavenger_smg" value="1" >
     </E>
+    <E key="shotgunner" value="1" >
+    </E>
     <E key="slimeshooter" value="2" >
+    </E>
+    <E key="sniper" value="1" >
     </E>
     <E key="worm_tiny" value="2" >
     </E>

@@ -1,0 +1,40 @@
+<Stats BUILD_NAME="Noita-Early-Access-Build-Sep 24 2019-16:57:41" >
+  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="12" gold="80" gold_all="80" gold_infinite="0" heart_containers="0" hp="100" items="4" kicks="0" killed_by="" killed_by_extra="" places_visited="3" playtime="226.85" playtime_str="0:03:46" projectiles_shot="112" world_seed="1666518430" >
+  </stats>
+  <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="11" gold="80" gold_all="80" gold_infinite="0" heart_containers="0" hp="100" items="4" kicks="0" killed_by="" killed_by_extra="" places_visited="2" playtime="218.6" playtime_str="0:03:38" projectiles_shot="102" world_seed="1666518430" >
+  </biome_baseline>
+  <item_map>
+    <impl::ConfigItemStats name="Neutral Rapid bolt wand" pos.x="992.804" pos.y="171.997" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="868.575" pos.y="66.8641" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="712.999" pos.y="367.928" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="775.798" pos.y="445.285" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="703.407" pos.y="573.209" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1030.81" pos.y="832.213" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="692.852" pos.y="821.665" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="791.65" pos.y="1089.87" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="790.945" pos.y="1097.9" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Full health regeneration" pos.x="-446.633" pos.y="1354.45" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$item_spell_refresh" pos.x="-414.665" pos.y="1356.21" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$perk_glass_cannon" pos.x="11.8879" pos.y="1418" >
+    </impl::ConfigItemStats>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

@@ -1,0 +1,52 @@
+<Stats BUILD_NAME="Noita-Early-Access-Build-Sep 24 2019-16:57:41" >
+  <stats dead="1" death_count="0" death_pos.x="303.231" death_pos.y="3719.04" enemies_killed="20" gold="71" gold_all="81" gold_infinite="0" heart_containers="0" hp="100" items="9" kicks="0" killed_by=" | explosion" killed_by_extra="" places_visited="4" playtime="359.417" playtime_str="0:05:59" projectiles_shot="167" world_seed="1859946495" >
+  </stats>
+  <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="15" gold="51" gold_all="61" gold_infinite="0" heart_containers="0" hp="100" items="8" kicks="0" killed_by="" killed_by_extra="" places_visited="3" playtime="298.9" playtime_str="0:04:58" projectiles_shot="138" world_seed="1859946495" >
+  </biome_baseline>
+  <item_map>
+    <impl::ConfigItemStats name="Shiny Rapid bolt wand" pos.x="1429.75" pos.y="812.997" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1221.3" pos.y="726.756" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1219.26" pos.y="755.95" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Full health regeneration" pos.x="-444.768" pos.y="1351.23" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$item_spell_refresh" pos.x="-414.443" pos.y="1356.21" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$action_soilball" pos.x="-279.028" pos.y="1387" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$perk_protection_melee" pos.x="28.1374" pos.y="1418" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="29.1766" pos.y="2010.25" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="73.1353" pos.y="1997.16" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="57.2055" pos.y="2001.17" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="394.488" pos.y="2259.82" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Full health regeneration" pos.x="-427.271" pos.y="2881.39" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$item_spell_refresh" pos.x="-414.625" pos.y="2892.19" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$perk_stainless_armour" pos.x="48.8668" pos.y="2954" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Alpha Rapid bolt wand" pos.x="362" pos.y="3255.15" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="580.477" pos.y="3543.28" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="513.414" pos.y="3714.21" >
+    </impl::ConfigItemStats>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

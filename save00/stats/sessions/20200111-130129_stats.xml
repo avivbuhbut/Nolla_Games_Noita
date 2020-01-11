@@ -1,0 +1,14 @@
+<Stats BUILD_NAME="Noita-Early-Access-Build-Sep 24 2019-16:57:41" >
+  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1" gold="0" gold_all="0" gold_infinite="0" heart_containers="0" hp="100" items="1" kicks="0" killed_by="" killed_by_extra="" places_visited="1" playtime="43.3833" playtime_str="0:00:43" projectiles_shot="17" world_seed="205506677" >
+  </stats>
+  <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" world_seed="0" >
+  </biome_baseline>
+  <item_map>
+    <impl::ConfigItemStats name="Good Rapid bolt wand" pos.x="782.795" pos.y="168.9" >
+    </impl::ConfigItemStats>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

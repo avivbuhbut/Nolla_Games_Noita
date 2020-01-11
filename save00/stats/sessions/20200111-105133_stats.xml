@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Early-Access-Build-Sep 24 2019-16:57:41" >
-  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="20" gold="0" gold_all="0" gold_infinite="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="1" playtime="212.417" playtime_str="0:03:32" projectiles_shot="213" world_seed="1916528999" >
+  <stats dead="1" death_count="0" death_pos.x="468.814" death_pos.y="496.981" enemies_killed="28" gold="312" gold_all="312" gold_infinite="0" heart_containers="0" hp="100" items="1" kicks="0" killed_by="Heikko limanuljaska | projectile" killed_by_extra="" places_visited="1" playtime="391.133" playtime_str="0:06:31" projectiles_shot="303" world_seed="1916528999" >
   </stats>
   <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" world_seed="0" >
   </biome_baseline>
@@ -35,6 +35,38 @@
     <impl::ConfigItemStats name="Gold nugget" pos.x="1085.97" pos.y="454.098" >
     </impl::ConfigItemStats>
     <impl::ConfigItemStats name="Gold nugget" pos.x="1175.56" pos.y="559.272" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1352.31" pos.y="579.872" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1710.93" pos.y="634.531" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1622.22" pos.y="677.315" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1655.13" pos.y="706.38" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1820.42" pos.y="694.213" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="2102.12" pos.y="1011.19" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="2091.72" pos.y="1016" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="2084.89" pos.y="1017.9" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="2077.28" pos.y="1020.26" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="2076.52" pos.y="1020.25" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="2074.95" pos.y="1020.19" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="2070.86" pos.y="1021.2" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="2065.54" pos.y="1020.9" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="2063.15" pos.y="1020.9" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="2053.95" pos.y="992.013" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$item_potion_with_material" pos.x="1898.96" pos.y="783.026" >
     </impl::ConfigItemStats>
   </item_map>
   <biomes_visited>

@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Early-Access-Build-Sep 24 2019-16:57:41" >
-  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="23" gold="95" gold_all="160" gold_infinite="0" heart_containers="1" hp="100" items="8" kicks="0" killed_by="" killed_by_extra="" places_visited="4" playtime="384.267" playtime_str="0:06:24" projectiles_shot="182" world_seed="1666518430" >
+  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="24" gold="175" gold_all="240" gold_infinite="0" heart_containers="1" hp="100" items="11" kicks="0" killed_by="" killed_by_extra="" places_visited="4" playtime="474.6" playtime_str="0:07:54" projectiles_shot="191" world_seed="1666518430" >
   </stats>
   <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="20" gold="95" gold_all="160" gold_infinite="0" heart_containers="0" hp="100" items="8" kicks="0" killed_by="" killed_by_extra="" places_visited="3" playtime="322.417" playtime_str="0:05:22" projectiles_shot="170" world_seed="1666518430" >
   </biome_baseline>
@@ -49,6 +49,28 @@
     <impl::ConfigItemStats name="$perk_exploding_corpses" pos.x="7.48735" pos.y="2954" >
     </impl::ConfigItemStats>
     <impl::ConfigItemStats name="Extra max health" pos.x="743.822" pos.y="3753.84" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="671.51" pos.y="3767.6" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1027.58" pos.y="4257.21" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="286.343" pos.y="4490.58" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="260.668" pos.y="4674.05" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="260.957" pos.y="4679.89" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="261.202" pos.y="4681.9" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="261.444" pos.y="4682.02" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="263.302" pos.y="4683.01" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Full health regeneration" pos.x="-444.921" pos.y="4934.67" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$item_spell_refresh" pos.x="-414.597" pos.y="4940.21" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$perk_electricity" pos.x="31.3552" pos.y="5002" >
     </impl::ConfigItemStats>
   </item_map>
   <biomes_visited>

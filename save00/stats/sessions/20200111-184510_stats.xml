@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Early-Access-Build-Sep 24 2019-16:57:41" >
-  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="20" gold="5" gold_all="65" gold_infinite="0" heart_containers="0" hp="100" items="9" kicks="3" killed_by="" killed_by_extra="" places_visited="3" playtime="791.233" playtime_str="0:13:11" projectiles_shot="18163" world_seed="2071418668" >
+  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="24" gold="5" gold_all="65" gold_infinite="0" heart_containers="0" hp="100" items="11" kicks="3" killed_by="" killed_by_extra="" places_visited="3" playtime="911.983" playtime_str="0:15:11" projectiles_shot="22494" world_seed="2071418668" >
   </stats>
   <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="6" gold="5" gold_all="65" gold_infinite="0" heart_containers="0" hp="100" items="4" kicks="3" killed_by="" killed_by_extra="" places_visited="2" playtime="174.3" playtime_str="0:02:54" projectiles_shot="115" world_seed="2071418668" >
   </biome_baseline>
@@ -69,6 +69,20 @@
     <impl::ConfigItemStats name="Gold nugget" pos.x="1659.5" pos.y="1625.28" >
     </impl::ConfigItemStats>
     <impl::ConfigItemStats name="Small Rapid bolt wand" pos.x="1896.38" pos.y="1646" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1153.3" pos.y="2248.31" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1153.3" pos.y="2248.31" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1153.3" pos.y="2248.31" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1225.98" pos.y="2318.43" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1263.32" pos.y="2539.01" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Full health regeneration" pos.x="-437.052" pos.y="2881.38" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$item_spell_refresh" pos.x="-414.614" pos.y="2892.21" >
     </impl::ConfigItemStats>
   </item_map>
   <biomes_visited>

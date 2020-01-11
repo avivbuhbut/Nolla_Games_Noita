@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Early-Access-Build-Sep 24 2019-16:57:41" >
-  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="32" gold="128" gold_all="128" gold_infinite="0" heart_containers="0" hp="100" items="9" kicks="0" killed_by="" killed_by_extra="" places_visited="3" playtime="464.067" playtime_str="0:07:44" projectiles_shot="397" world_seed="205506677" >
+  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="38" gold="128" gold_all="128" gold_infinite="0" heart_containers="0" hp="100" items="13" kicks="0" killed_by="" killed_by_extra="" places_visited="3" playtime="548.95" playtime_str="0:09:08" projectiles_shot="909" world_seed="205506677" >
   </stats>
   <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="13" gold="128" gold_all="128" gold_infinite="0" heart_containers="0" hp="100" items="6" kicks="0" killed_by="" killed_by_extra="" places_visited="2" playtime="257.5" playtime_str="0:04:17" projectiles_shot="122" world_seed="205506677" >
   </biome_baseline>
@@ -59,6 +59,16 @@
     <impl::ConfigItemStats name="$action_sea_acid_gas" pos.x="1558.16" pos.y="1855" >
     </impl::ConfigItemStats>
     <impl::ConfigItemStats name="Gold nugget" pos.x="1345.36" pos.y="1862.11" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1041.99" pos.y="2211.21" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Weak Rapid bolt wand" pos.x="1092.77" pos.y="2246" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Full health regeneration" pos.x="-439.61" pos.y="2882.28" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$item_spell_refresh" pos.x="-414.484" pos.y="2892.21" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Extreme Rapid bolt wand" pos.x="-204.377" pos.y="2923" >
     </impl::ConfigItemStats>
   </item_map>
   <biomes_visited>

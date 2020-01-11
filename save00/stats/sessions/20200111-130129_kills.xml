@@ -1,18 +1,20 @@
-<Stats deaths="0" kills="32" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="38" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
     <E key="bat" value="1" >
     </E>
-    <E key="bigfirebug" value="1" >
+    <E key="bigfirebug" value="2" >
     </E>
-    <E key="firebug" value="9" >
+    <E key="firebug" value="11" >
     </E>
     <E key="firebugnest" value="1" >
     </E>
+    <E key="fish" value="2" >
+    </E>
     <E key="longleg" value="2" >
     </E>
-    <E key="miner" value="2" >
+    <E key="miner" value="3" >
     </E>
     <E key="miner_weak" value="3" >
     </E>

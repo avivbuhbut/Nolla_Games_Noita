@@ -1,7 +1,7 @@
 <Stats BUILD_NAME="Noita-Early-Access-Build-Sep 24 2019-16:57:41" >
-  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="38" gold="128" gold_all="128" gold_infinite="0" heart_containers="0" hp="100" items="13" kicks="0" killed_by="" killed_by_extra="" places_visited="3" playtime="548.95" playtime_str="0:09:08" projectiles_shot="909" world_seed="205506677" >
+  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="38" gold="11" gold_all="211" gold_infinite="0" heart_containers="0" hp="100" items="17" kicks="0" killed_by="" killed_by_extra="" places_visited="4" playtime="652.617" playtime_str="0:10:52" projectiles_shot="2704" world_seed="205506677" >
   </stats>
-  <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="13" gold="128" gold_all="128" gold_infinite="0" heart_containers="0" hp="100" items="6" kicks="0" killed_by="" killed_by_extra="" places_visited="2" playtime="257.5" playtime_str="0:04:17" projectiles_shot="122" world_seed="205506677" >
+  <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="38" gold="11" gold_all="211" gold_infinite="0" heart_containers="0" hp="100" items="14" kicks="0" killed_by="" killed_by_extra="" places_visited="3" playtime="567.85" playtime_str="0:09:27" projectiles_shot="909" world_seed="205506677" >
   </biome_baseline>
   <item_map>
     <impl::ConfigItemStats name="Good Rapid bolt wand" pos.x="782.795" pos.y="168.9" >
@@ -70,6 +70,14 @@
     </impl::ConfigItemStats>
     <impl::ConfigItemStats name="Extreme Rapid bolt wand" pos.x="-204.377" pos.y="2923" >
     </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$perk_movement_faster" pos.x="30.0544" pos.y="2954" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Tiny Rapid bolt wand" pos.x="365.536" pos.y="3247" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="" pos.x="365.597" pos.y="3247" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Terrifying Rapid bolt wand" pos.x="172.364" pos.y="3240" >
+    </impl::ConfigItemStats>
   </item_map>
   <biomes_visited>
     <E key="$biome_coalmine" value="1" >
@@ -77,6 +85,8 @@
     <E key="$biome_excavationsite" value="1" >
     </E>
     <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
     </E>
   </biomes_visited>
 </Stats>

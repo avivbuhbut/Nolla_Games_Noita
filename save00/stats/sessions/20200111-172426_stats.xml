@@ -1,0 +1,70 @@
+<Stats BUILD_NAME="Noita-Early-Access-Build-Sep 24 2019-16:57:41" >
+  <stats dead="1" death_count="0" death_pos.x="-468.023" death_pos.y="3315.62" enemies_killed="19" gold="91" gold_all="181" gold_infinite="0" heart_containers="0" hp="100" items="9" kicks="2" killed_by="Haulikkohiisi | projectile" killed_by_extra="" places_visited="4" playtime="364.517" playtime_str="0:06:04" projectiles_shot="278" world_seed="604164793" >
+  </stats>
+  <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="15" gold="61" gold_all="151" gold_infinite="0" heart_containers="0" hp="100" items="8" kicks="2" killed_by="" killed_by_extra="" places_visited="3" playtime="279.417" playtime_str="0:04:39" projectiles_shot="185" world_seed="604164793" >
+  </biome_baseline>
+  <item_map>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="991.907" pos.y="363.205" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="712.23" pos.y="499.961" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="520.545" pos.y="512.198" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="-156.008" pos.y="682" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="-252.323" pos.y="695.698" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Bad Rapid bolt wand" pos.x="-348.482" pos.y="841.955" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="-431.609" pos.y="808.172" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="-421.228" pos.y="766.015" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="-240.172" pos.y="772.178" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="-237.572" pos.y="777.526" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="-256.445" pos.y="911.628" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Full health regeneration" pos.x="-439.909" pos.y="1346.52" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$item_spell_refresh" pos.x="-414.775" pos.y="1356.21" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$action_bomb" pos.x="-284.281" pos.y="1387" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$perk_protection_explosion" pos.x="9.97635" pos.y="1418" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="15.2827" pos.y="1778.51" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="-577.802" pos.y="2258.46" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="-506.3" pos.y="2419.38" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="-463.175" pos.y="2397.96" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Full health regeneration" pos.x="-440.179" pos.y="2883.06" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$item_spell_refresh" pos.x="-414.179" pos.y="2892.21" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$perk_stainless_armour" pos.x="48.115" pos.y="2954" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="183.009" pos.y="3097.86" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="183.074" pos.y="3101.74" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Worn Rapid bolt wand" pos.x="-120.398" pos.y="3101.45" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="-110.47" pos.y="3308.73" >
+    </impl::ConfigItemStats>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

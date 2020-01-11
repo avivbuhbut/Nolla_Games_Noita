@@ -1,18 +1,6 @@
 <PixelScenes>
   <mBufferedPixelScenes>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/snowcave_icicles2.png" pos_x="-833" pos_y="3557" skip_biome_checks="0" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="-2048" pos_y="2520" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="-2048" pos_y="2530" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_solid.png" pos_x="1024" pos_y="2820" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_solid.png" pos_x="-1536" pos_y="1284" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
@@ -20,15 +8,15 @@
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="1536" pos_y="2530" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/spliced/lavalake2/0.png" pos_x="2048" pos_y="0" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_solid.png" pos_x="1024" pos_y="1284" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/spliced/lavalake2/1.png" pos_x="2048" pos_y="512" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="-2560" pos_y="4568" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/spliced/lavalake2/2.png" pos_x="2048" pos_y="1024" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
@@ -44,11 +32,11 @@
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="1024" pos_y="2520" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/spliced/lavalake2/6.png" pos_x="2560" pos_y="512" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_solid.png" pos_x="1536" pos_y="1284" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/spliced/lavalake2/7.png" pos_x="2560" pos_y="1024" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
@@ -360,23 +348,41 @@
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="-1536" pos_y="984" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
     <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_solid.png" pos_x="-2048" pos_y="13060" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_solid.png" pos_x="1536" pos_y="2820" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_altar_background.png" clean_area_before="0" colors_filename="data/biome_impl/temple_altar_visual.png" material_filename="data/biome_impl/temple_altar.png" pos_x="-512" pos_y="1284" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="1536" pos_y="2520" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_altar_left_background.png" clean_area_before="0" colors_filename="data/biome_impl/temple_altar_left_visual.png" material_filename="data/biome_impl/temple_altar_left.png" pos_x="-1024" pos_y="1284" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_solid.png" pos_x="-2048" pos_y="2820" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="-1536" pos_y="994" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_solid.png" pos_x="-2560" pos_y="4868" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="-512" pos_y="984" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/coalmine_physics_01_visual.png" material_filename="data/biome_impl/coalmine_physics_01.png" pos_x="517" pos_y="987" skip_biome_checks="0" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/coalmine_oiltank_5.png" pos_x="257" pos_y="857" skip_biome_checks="0" skip_edge_textures="0" >
+      <ColorsToMaterial>
+        <CM key="15645680" value="50" >
+        </CM>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="-1024" pos_y="984" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
@@ -408,7 +414,7 @@
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top_lava.png" pos_x="2048" pos_y="10200" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="2048" pos_y="10200" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
@@ -472,7 +478,7 @@
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="-512" pos_y="10200" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top_oil.png" pos_x="-512" pos_y="10200" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
@@ -508,7 +514,7 @@
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="-2048" pos_y="10200" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top_water.png" pos_x="-2048" pos_y="10200" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
@@ -568,7 +574,7 @@
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="512" pos_y="8152" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top_blood.png" pos_x="512" pos_y="8152" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
@@ -632,7 +638,7 @@
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top_water.png" pos_x="-2048" pos_y="8152" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="-2048" pos_y="8152" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
@@ -792,7 +798,7 @@
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top_lava.png" pos_x="1024" pos_y="4568" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="1024" pos_y="4568" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
@@ -880,7 +886,155 @@
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/snowcave_icicles.png" pos_x="677" pos_y="3557" skip_biome_checks="0" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="-2560" pos_y="4568" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_solid.png" pos_x="-2560" pos_y="4868" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="1536" pos_y="2530" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="1536" pos_y="2520" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_solid.png" pos_x="1536" pos_y="2820" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="1024" pos_y="2530" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="1024" pos_y="2520" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_solid.png" pos_x="1024" pos_y="2820" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="512" pos_y="2530" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="512" pos_y="2520" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_solid.png" pos_x="512" pos_y="2820" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="0" pos_y="2530" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="0" pos_y="2520" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_altar_right_background.png" clean_area_before="0" colors_filename="data/biome_impl/temple_altar_right_visual.png" material_filename="data/biome_impl/temple_altar_right_snowcave.png" pos_x="0" pos_y="2820" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_right_extra_snowcave.png" pos_x="0" pos_y="3102" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="-512" pos_y="2530" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="-512" pos_y="2520" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_altar_background.png" clean_area_before="0" colors_filename="data/biome_impl/temple_altar_visual.png" material_filename="data/biome_impl/temple_altar.png" pos_x="-512" pos_y="2820" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="-1024" pos_y="2530" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="-1024" pos_y="2520" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_altar_left_background.png" clean_area_before="0" colors_filename="data/biome_impl/temple_altar_left_visual.png" material_filename="data/biome_impl/temple_altar_left.png" pos_x="-1024" pos_y="2820" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="-1536" pos_y="2530" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="-1536" pos_y="2520" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_solid.png" pos_x="-1536" pos_y="2820" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="-2048" pos_y="2530" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="-2048" pos_y="2520" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_solid.png" pos_x="-2048" pos_y="2820" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="-512" pos_y="994" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="1536" pos_y="984" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_solid.png" pos_x="1536" pos_y="1284" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="-1024" pos_y="994" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="1024" pos_y="984" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_solid.png" pos_x="1024" pos_y="1284" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="512" pos_y="984" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_solid.png" pos_x="512" pos_y="1284" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="0" pos_y="984" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_altar_right_background.png" clean_area_before="0" colors_filename="data/biome_impl/temple_altar_right_visual.png" material_filename="data/biome_impl/temple_altar_right.png" pos_x="0" pos_y="1284" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_right_extra.png" pos_x="0" pos_y="1566" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
@@ -906,7 +1060,7 @@
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/potion_altar_visual.png" material_filename="data/biome_impl/potion_altar.png" pos_x="232" pos_y="292" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/mountain_right_background.png" clean_area_before="0" colors_filename="data/biome_impl/mountain_right_visual.png" material_filename="data/biome_impl/mountain_right.png" pos_x="1024" pos_y="-512" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
@@ -918,19 +1072,15 @@
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/mountain_hall_bottom.png" pos_x="0" pos_y="0" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/mountain_hall_b_visual.png" material_filename="data/biome_impl/mountain_hall_b.png" pos_x="512" pos_y="0" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
     <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/mountain_hall_r_visual.png" material_filename="data/biome_impl/mountain_hall_r.png" pos_x="1024" pos_y="-512" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/mountain_right_background.png" clean_area_before="0" colors_filename="data/biome_impl/mountain_right_visual.png" material_filename="data/biome_impl/mountain_right.png" pos_x="1024" pos_y="-512" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/mountain_hall_bottom.png" pos_x="0" pos_y="0" skip_biome_checks="1" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/coalmine_coalpit05_visual.png" material_filename="data/biome_impl/coalmine_coalpit05.png" pos_x="257" pos_y="337" skip_biome_checks="0" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
@@ -938,35 +1088,15 @@
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/potion_altar_visual.png" material_filename="data/biome_impl/potion_altar.png" pos_x="1302" pos_y="172" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/mountain_hall_b_visual.png" material_filename="data/biome_impl/mountain_hall_b.png" pos_x="512" pos_y="0" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/wand_altar_visual.png" material_filename="data/biome_impl/wand_altar.png" pos_x="1232" pos_y="115" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/wand_altar_visual.png" material_filename="data/biome_impl/wand_altar.png" pos_x="1262" pos_y="375" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/potion_altar_visual.png" material_filename="data/biome_impl/potion_altar.png" pos_x="1082" pos_y="112" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/potion_altar_visual.png" material_filename="data/biome_impl/potion_altar.png" pos_x="1142" pos_y="2" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/wand_altar_visual.png" material_filename="data/biome_impl/wand_altar.png" pos_x="822" pos_y="895" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/coalmine_physics_02_visual.png" material_filename="data/biome_impl/coalmine_physics_02.png" pos_x="647" pos_y="597" skip_biome_checks="0" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/wand_altar_visual.png" material_filename="data/biome_impl/wand_altar.png" pos_x="962" pos_y="115" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/wand_altar_visual.png" material_filename="data/biome_impl/wand_altar.png" pos_x="122" pos_y="895" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/wand_altar_visual.png" material_filename="data/biome_impl/wand_altar.png" pos_x="482" pos_y="755" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
@@ -978,11 +1108,7 @@
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/mountain_top.png" pos_x="512" pos_y="-1024" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/mountain_hall_bottom_2.png" pos_x="1064" pos_y="0" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/mountain_right_bottom.png" pos_x="1344" pos_y="0" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
@@ -990,11 +1116,15 @@
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/mountain_right_bottom.png" pos_x="1344" pos_y="0" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/mountain_hall_bottom_2.png" pos_x="1064" pos_y="0" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/coalmine_physics_01_visual.png" material_filename="data/biome_impl/coalmine_physics_01.png" pos_x="1167" pos_y="597" skip_biome_checks="0" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/coalmine_physics_03.png" pos_x="1167" pos_y="597" skip_biome_checks="0" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/wand_altar_visual.png" material_filename="data/biome_impl/wand_altar.png" pos_x="1292" pos_y="505" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
@@ -1002,251 +1132,21 @@
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/coalmine_physics_01_visual.png" material_filename="data/biome_impl/coalmine_physics_01.png" pos_x="1427" pos_y="857" skip_biome_checks="0" skip_edge_textures="0" >
+      <ColorsToMaterial>
+      </ColorsToMaterial>
+    </PixelScene>
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/coalmine_oiltank_2_visual.png" material_filename="data/biome_impl/coalmine_oiltank_2.png" pos_x="1427" pos_y="467" skip_biome_checks="0" skip_edge_textures="0" >
+      <ColorsToMaterial>
+        <CM key="15645680" value="50" >
+        </CM>
+      </ColorsToMaterial>
+    </PixelScene>
     <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="1536" pos_y="994" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="-512" pos_y="994" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/potion_altar_visual.png" material_filename="data/biome_impl/potion_altar.png" pos_x="-98" pos_y="952" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/wand_altar_visual.png" material_filename="data/biome_impl/wand_altar.png" pos_x="-478" pos_y="635" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="-512" pos_y="984" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="0" pos_y="984" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/coalmine_oiltank_1_visual.png" material_filename="data/biome_impl/coalmine_oiltank_1.png" pos_x="-263" pos_y="857" skip_biome_checks="0" skip_edge_textures="0" >
-      <ColorsToMaterial>
-        <CM key="15645680" value="86" >
-        </CM>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="512" pos_y="984" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/coalmine_oiltank_alt_visual.png" material_filename="data/biome_impl/coalmine_oiltank_alt.png" pos_x="1327" pos_y="897" skip_biome_checks="0" skip_edge_textures="0" >
-      <ColorsToMaterial>
-        <CM key="15645680" value="86" >
-        </CM>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="1536" pos_y="984" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="1024" pos_y="984" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/spliced/lavalake2/1.png" pos_x="2048" pos_y="512" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/spliced/lavalake2/0.png" pos_x="2048" pos_y="0" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/spliced/lavalake2/7.png" pos_x="2560" pos_y="1024" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/spliced/lavalake2/2.png" pos_x="2048" pos_y="1024" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/spliced/lavalake2/6.png" pos_x="2560" pos_y="512" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_altar_left_background.png" clean_area_before="0" colors_filename="data/biome_impl/temple_altar_left_visual.png" material_filename="data/biome_impl/temple_altar_left.png" pos_x="-1024" pos_y="1284" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="-1024" pos_y="984" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="-1024" pos_y="994" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_solid.png" pos_x="-1536" pos_y="1284" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_altar_background.png" clean_area_before="0" colors_filename="data/biome_impl/temple_altar_visual.png" material_filename="data/biome_impl/temple_altar.png" pos_x="-512" pos_y="1284" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/excavationsite_mechanism_background3.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/excavationsite_mechanism.png" pos_x="-193" pos_y="1747" skip_biome_checks="0" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/wand_altar_visual.png" material_filename="data/biome_impl/wand_altar.png" pos_x="-373" pos_y="1730" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top_lava.png" pos_x="-1536" pos_y="984" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="-1536" pos_y="994" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/potion_altar_visual.png" material_filename="data/biome_impl/potion_altar.png" pos_x="-918" pos_y="512" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_solid.png" pos_x="512" pos_y="1284" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/excavationsite_gunpowderpool_03_visual.png" material_filename="data/biome_impl/excavationsite_gunpowderpool_03.png" pos_x="574" pos_y="1950" skip_biome_checks="0" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_altar_right_background.png" clean_area_before="0" colors_filename="data/biome_impl/temple_altar_right_visual.png" material_filename="data/biome_impl/temple_altar_right.png" pos_x="0" pos_y="1284" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_right_extra.png" pos_x="0" pos_y="1566" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/excavationsite_machine_4_background.png" clean_area_before="0" colors_filename="data/biome_impl/excavationsite_machine_4_visual.png" material_filename="data/biome_impl/excavationsite_machine_4.png" pos_x="547" pos_y="1687" skip_biome_checks="0" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="0" pos_y="2530" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/excavationsite_puzzleroom_03_visual.png" material_filename="data/biome_impl/excavationsite_puzzleroom_03.png" pos_x="97" pos_y="2017" skip_biome_checks="0" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/potion_altar_visual.png" material_filename="data/biome_impl/potion_altar.png" pos_x="128" pos_y="2062" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="-512" pos_y="2530" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/wand_altar_visual.png" material_filename="data/biome_impl/wand_altar.png" pos_x="-263" pos_y="2400" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/excavationsite_mechanism_background2.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/excavationsite_mechanism.png" pos_x="-373" pos_y="2347" skip_biome_checks="0" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/excavationsite_mechanism_background2.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/excavationsite_mechanism.png" pos_x="-493" pos_y="2187" skip_biome_checks="0" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="-1024" pos_y="2530" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/excavationsite_mechanism_background2.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/excavationsite_mechanism.png" pos_x="-753" pos_y="2157" skip_biome_checks="0" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="512" pos_y="2530" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top_lava.png" pos_x="-512" pos_y="2520" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="0" pos_y="2520" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="-1024" pos_y="2520" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="512" pos_y="2520" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_altar_left_background.png" clean_area_before="0" colors_filename="data/biome_impl/temple_altar_left_visual.png" material_filename="data/biome_impl/temple_altar_left.png" pos_x="-1024" pos_y="2820" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/excavationsite_shop_visual.png" material_filename="data/biome_impl/excavationsite_shop_alt.png" pos_x="947" pos_y="2087" skip_biome_checks="0" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_solid.png" pos_x="-1536" pos_y="2820" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_top.png" pos_x="-1536" pos_y="2520" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_altar_background.png" clean_area_before="0" colors_filename="data/biome_impl/temple_altar_visual.png" material_filename="data/biome_impl/temple_altar.png" pos_x="-512" pos_y="2820" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="1024" pos_y="2530" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_wall_top_background.png" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_wall_top.png" pos_x="-1536" pos_y="2530" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/snowcave_icicles2.png" pos_x="-1223" pos_y="3307" skip_biome_checks="0" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/snowcave_icicles3.png" pos_x="-1183" pos_y="3087" skip_biome_checks="0" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/excavationsite_gunpowderpool_01_visual.png" material_filename="data/biome_impl/excavationsite_gunpowderpool_01.png" pos_x="-1193" pos_y="2507" skip_biome_checks="0" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/wand_altar_visual.png" material_filename="data/biome_impl/wand_altar.png" pos_x="-1093" pos_y="2330" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/potion_altar_visual.png" material_filename="data/biome_impl/potion_altar.png" pos_x="-708" pos_y="3312" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="data/biome_impl/temple_altar_right_background.png" clean_area_before="0" colors_filename="data/biome_impl/temple_altar_right_visual.png" material_filename="data/biome_impl/temple_altar_right_snowcave.png" pos_x="0" pos_y="2820" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_altar_right_extra_snowcave.png" pos_x="0" pos_y="3102" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/snowperson_visual.png" material_filename="data/biome_impl/snowperson.png" pos_x="305" pos_y="3229" skip_biome_checks="1" skip_edge_textures="0" >
-      <ColorsToMaterial>
-      </ColorsToMaterial>
-    </PixelScene>
-    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="" material_filename="data/biome_impl/temple_solid.png" pos_x="512" pos_y="2820" skip_biome_checks="1" skip_edge_textures="0" >
+    <PixelScene DEBUG_RELOAD_ME="0" background_filename="" clean_area_before="0" colors_filename="data/biome_impl/potion_altar_visual.png" material_filename="data/biome_impl/potion_altar.png" pos_x="1952" pos_y="942" skip_biome_checks="1" skip_edge_textures="0" >
       <ColorsToMaterial>
       </ColorsToMaterial>
     </PixelScene>

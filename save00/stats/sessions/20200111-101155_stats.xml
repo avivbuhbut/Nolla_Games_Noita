@@ -1,0 +1,22 @@
+<Stats BUILD_NAME="Noita-Early-Access-Build-Sep 24 2019-16:57:41" >
+  <stats dead="1" death_count="0" death_pos.x="1487.75" death_pos.y="1019.98" enemies_killed="0" gold="40" gold_all="40" gold_infinite="0" heart_containers="0" hp="100" items="1" kicks="0" killed_by=" | drowning" killed_by_extra="" places_visited="1" playtime="164.783" playtime_str="0:02:44" projectiles_shot="64" world_seed="179982943" >
+  </stats>
+  <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" world_seed="0" >
+  </biome_baseline>
+  <item_map>
+    <impl::ConfigItemStats name="$item_potion_with_material" pos.x="879.62" pos.y="34.875" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1015.11" pos.y="188.627" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1001.53" pos.y="182.817" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="888.107" pos.y="167.839" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="887.575" pos.y="168.909" >
+    </impl::ConfigItemStats>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

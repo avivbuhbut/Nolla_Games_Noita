@@ -1,0 +1,22 @@
+<Stats deaths="12" kills="13" player_kills="2" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_fire" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="3" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="worm | worm bite" value="6" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="player" value="2" >
+    </E>
+    <E key="rat" value="10" >
+    </E>
+  </kill_map>
+</Stats>

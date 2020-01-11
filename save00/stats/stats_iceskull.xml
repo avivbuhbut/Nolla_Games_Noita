@@ -1,0 +1,14 @@
+<Stats deaths="2" kills="7" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="iceskull | $damage_ice" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="iceskull" value="2" >
+    </E>
+    <E key="rat" value="3" >
+    </E>
+    <E key="worm_tiny" value="2" >
+    </E>
+  </kill_map>
+</Stats>

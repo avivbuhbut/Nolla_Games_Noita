@@ -1,0 +1,20 @@
+<Stats BUILD_NAME="Noita-Early-Access-Build-Sep 24 2019-16:57:41" >
+  <stats dead="1" death_count="0" death_pos.x="1607.04" death_pos.y="905.079" enemies_killed="6" gold="37" gold_all="37" gold_infinite="0" heart_containers="0" hp="100" items="1" kicks="0" killed_by="Heikko haulikkohiisi | projectile" killed_by_extra="" places_visited="1" playtime="123.233" playtime_str="0:02:03" projectiles_shot="39" world_seed="280225728" >
+  </stats>
+  <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" world_seed="0" >
+  </biome_baseline>
+  <item_map>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1188.18" pos.y="372.176" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1186.61" pos.y="373.279" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1276.76" pos.y="244.997" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Shiny Rapid bolt wand" pos.x="1271.74" pos.y="571.997" >
+    </impl::ConfigItemStats>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

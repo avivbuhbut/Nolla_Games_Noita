@@ -1,0 +1,30 @@
+<Stats deaths="52" kills="5" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="6" >
+    </E>
+    <E key="NULL | $damage_fire" value="14" >
+    </E>
+    <E key="NULL | damage from material: acid" value="3" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="acidshooter_weak | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="15" >
+    </E>
+    <E key="player | $damage_slice" value="9" >
+    </E>
+    <E key="worm | worm bite" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="zombie_weak" value="3" >
+    </E>
+  </kill_map>
+</Stats>

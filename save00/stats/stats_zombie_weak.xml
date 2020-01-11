@@ -1,0 +1,30 @@
+<Stats deaths="94" kills="1" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="11" >
+    </E>
+    <E key="NULL | $damage_fire" value="13" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="longleg | $damage_melee" value="3" >
+    </E>
+    <E key="miner_weak | $damage_melee" value="6" >
+    </E>
+    <E key="player | $damage_projectile" value="25" >
+    </E>
+    <E key="player | $damage_slice" value="10" >
+    </E>
+    <E key="shotgunner_weak | $damage_melee" value="1" >
+    </E>
+    <E key="shotgunner_weak | $damage_projectile" value="18" >
+    </E>
+    <E key="slimeshooter_weak | $damage_projectile" value="5" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+  </kill_map>
+</Stats>

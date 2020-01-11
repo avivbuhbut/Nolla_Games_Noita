@@ -1,0 +1,62 @@
+<Stats BUILD_NAME="Noita-Early-Access-Build-Sep 24 2019-16:57:41" >
+  <stats dead="1" death_count="0" death_pos.x="78.1166" death_pos.y="1418.27" enemies_killed="21" gold="45" gold_all="195" gold_infinite="0" heart_containers="0" hp="100" items="6" kicks="0" killed_by=" | projectile" killed_by_extra="" places_visited="2" playtime="498.05" playtime_str="0:08:18" projectiles_shot="174" world_seed="1578427873" >
+  </stats>
+  <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" world_seed="0" >
+  </biome_baseline>
+  <item_map>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="982.179" pos.y="180.638" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Good Rapid bolt wand" pos.x="1318.55" pos.y="163.965" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="826.422" pos.y="252.212" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="833.419" pos.y="453.087" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="832.788" pos.y="457.806" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="870.232" pos.y="444.827" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="901.949" pos.y="431.247" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1382.9" pos.y="522.639" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1353.12" pos.y="502.682" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1617.94" pos.y="562.513" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1505.52" pos.y="583.213" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1468.12" pos.y="567.061" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1710.15" pos.y="704.213" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1758.62" pos.y="581.67" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="2073.5" pos.y="1005.77" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="2048.29" pos.y="911.248" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$booktitle_corpse" pos.x="2328.44" pos.y="849.997" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1767.25" pos.y="824.463" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1769.67" pos.y="960.125" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$item_potion_with_material" pos.x="1579.85" pos.y="973.9" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1760.62" pos.y="1088.05" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Full health regeneration" pos.x="-440.301" pos.y="1346.02" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$item_spell_refresh" pos.x="-414.301" pos.y="1356.21" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Small Rapid bolt wand" pos.x="-226.979" pos.y="1379.83" >
+    </impl::ConfigItemStats>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

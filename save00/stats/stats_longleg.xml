@@ -1,10 +1,10 @@
-<Stats deaths="114" kills="8" player_kills="0" player_projectile_count="0" >
+<Stats deaths="134" kills="8" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="7" >
+    <E key="NULL | $damage_explosion" value="10" >
     </E>
-    <E key="NULL | $damage_fire" value="40" >
+    <E key="NULL | $damage_fire" value="46" >
     </E>
     <E key="NULL | damage from material: acid" value="5" >
     </E>
@@ -14,7 +14,7 @@
     </E>
     <E key="firemage_weak | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="22" >
+    <E key="player | $damage_projectile" value="27" >
     </E>
     <E key="player | $damage_slice" value="18" >
     </E>
@@ -22,9 +22,11 @@
     </E>
     <E key="slimeshooter | $damage_projectile" value="1" >
     </E>
+    <E key="slimeshooter_weak | $damage_explosion" value="5" >
+    </E>
     <E key="slimeshooter_weak | $damage_melee" value="3" >
     </E>
-    <E key="slimeshooter_weak | $damage_projectile" value="2" >
+    <E key="slimeshooter_weak | $damage_projectile" value="3" >
     </E>
     <E key="worm | worm bite" value="2" >
     </E>

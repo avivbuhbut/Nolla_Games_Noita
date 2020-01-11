@@ -1,7 +1,7 @@
 <Stats BUILD_NAME="Noita-Early-Access-Build-Sep 24 2019-16:57:41" >
-  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="25" gold="0" gold_all="0" gold_infinite="0" heart_containers="0" hp="100" items="3" kicks="2" killed_by="" killed_by_extra="" places_visited="1" playtime="431.017" playtime_str="0:07:11" projectiles_shot="113" world_seed="185239016" >
+  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="30" gold="235" gold_all="255" gold_infinite="0" heart_containers="0" hp="100" items="8" kicks="3" killed_by="" killed_by_extra="" places_visited="2" playtime="533.767" playtime_str="0:08:53" projectiles_shot="129" world_seed="185239016" >
   </stats>
-  <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" world_seed="0" >
+  <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="30" gold="235" gold_all="255" gold_infinite="0" heart_containers="0" hp="100" items="8" kicks="3" killed_by="" killed_by_extra="" places_visited="2" playtime="531.9" playtime_str="0:08:51" projectiles_shot="129" world_seed="185239016" >
   </biome_baseline>
   <item_map>
     <impl::ConfigItemStats name="Antique Rapid bolt wand" pos.x="966.698" pos.y="119.125" >
@@ -48,9 +48,25 @@
     </impl::ConfigItemStats>
     <impl::ConfigItemStats name="Gold nugget" pos.x="1796.47" pos.y="817.961" >
     </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="2134.84" pos.y="982.4" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$booktitle_corpse" pos.x="2327.86" pos.y="850.003" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="1840.27" pos.y="1089.04" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Full health regeneration" pos.x="-435.522" pos.y="1344.67" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$item_spell_refresh" pos.x="-414.725" pos.y="1356.21" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$action_powerdigger" pos.x="-177.499" pos.y="1387" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$perk_bleed_slime" pos.x="32.7752" pos.y="1418" >
+    </impl::ConfigItemStats>
   </item_map>
   <biomes_visited>
     <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
     </E>
   </biomes_visited>
 </Stats>

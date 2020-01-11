@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="17" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="20" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -8,9 +8,11 @@
     </E>
     <E key="firebug" value="3" >
     </E>
-    <E key="miner" value="1" >
+    <E key="miner" value="3" >
     </E>
     <E key="miner_weak" value="1" >
+    </E>
+    <E key="physics_lantern_small" value="1" >
     </E>
     <E key="rat" value="1" >
     </E>

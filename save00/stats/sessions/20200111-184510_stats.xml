@@ -1,7 +1,7 @@
 <Stats BUILD_NAME="Noita-Early-Access-Build-Sep 24 2019-16:57:41" >
-  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="24" gold="5" gold_all="65" gold_infinite="0" heart_containers="0" hp="100" items="11" kicks="3" killed_by="" killed_by_extra="" places_visited="3" playtime="911.983" playtime_str="0:15:11" projectiles_shot="22494" world_seed="2071418668" >
+  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="24" gold="2164" gold_all="2699" gold_infinite="0" heart_containers="0" hp="100" items="14" kicks="3" killed_by="" killed_by_extra="" places_visited="3" playtime="960.683" playtime_str="0:16:00" projectiles_shot="22543" world_seed="2071418668" >
   </stats>
-  <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="6" gold="5" gold_all="65" gold_infinite="0" heart_containers="0" hp="100" items="4" kicks="3" killed_by="" killed_by_extra="" places_visited="2" playtime="174.3" playtime_str="0:02:54" projectiles_shot="115" world_seed="2071418668" >
+  <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="24" gold="2164" gold_all="2699" gold_infinite="0" heart_containers="0" hp="100" items="14" kicks="3" killed_by="" killed_by_extra="" places_visited="3" playtime="954.033" playtime_str="0:15:54" projectiles_shot="22542" world_seed="2071418668" >
   </biome_baseline>
   <item_map>
     <impl::ConfigItemStats name="Gold nugget" pos.x="1080.44" pos.y="152.212" >
@@ -83,6 +83,12 @@
     <impl::ConfigItemStats name="Full health regeneration" pos.x="-437.052" pos.y="2881.38" >
     </impl::ConfigItemStats>
     <impl::ConfigItemStats name="$item_spell_refresh" pos.x="-414.614" pos.y="2892.21" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Slick Rapid bolt wand" pos.x="-199.444" pos.y="2923" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Stereo Rapid bolt wand" pos.x="-170.207" pos.y="2923.03" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="$perk_protection_electricity" pos.x="11.4316" pos.y="2954" >
     </impl::ConfigItemStats>
   </item_map>
   <biomes_visited>

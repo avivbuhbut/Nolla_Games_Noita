@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Early-Access-Build-Sep 24 2019-16:57:41" >
-  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="20" gold="95" gold_all="160" gold_infinite="0" heart_containers="0" hp="100" items="8" kicks="0" killed_by="" killed_by_extra="" places_visited="4" playtime="324.883" playtime_str="0:05:24" projectiles_shot="170" world_seed="1666518430" >
+  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="23" gold="95" gold_all="160" gold_infinite="0" heart_containers="1" hp="100" items="8" kicks="0" killed_by="" killed_by_extra="" places_visited="4" playtime="384.267" playtime_str="0:06:24" projectiles_shot="182" world_seed="1666518430" >
   </stats>
   <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="20" gold="95" gold_all="160" gold_infinite="0" heart_containers="0" hp="100" items="8" kicks="0" killed_by="" killed_by_extra="" places_visited="3" playtime="322.417" playtime_str="0:05:22" projectiles_shot="170" world_seed="1666518430" >
   </biome_baseline>
@@ -47,6 +47,8 @@
     <impl::ConfigItemStats name="Secretly Rapid bolt wand" pos.x="-202.851" pos.y="2923" >
     </impl::ConfigItemStats>
     <impl::ConfigItemStats name="$perk_exploding_corpses" pos.x="7.48735" pos.y="2954" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Extra max health" pos.x="743.822" pos.y="3753.84" >
     </impl::ConfigItemStats>
   </item_map>
   <biomes_visited>

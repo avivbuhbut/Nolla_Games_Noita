@@ -1,4 +1,4 @@
-<Stats deaths="42" kills="15" player_kills="0" player_projectile_count="0" >
+<Stats deaths="50" kills="26" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="3" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="9" >
     </E>
-    <E key="NULL | $damage_fire" value="6" >
+    <E key="NULL | $damage_fire" value="7" >
     </E>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
@@ -14,15 +14,15 @@
     </E>
     <E key="NULL | damage from material: freezing vapour" value="1" >
     </E>
-    <E key="NULL | damage from material: lava" value="2" >
+    <E key="NULL | damage from material: lava" value="4" >
     </E>
     <E key="bigbat | $damage_melee" value="1" >
     </E>
     <E key="iceskull | $damage_explosion" value="2" >
     </E>
-    <E key="player | $damage_explosion" value="1" >
+    <E key="player | $damage_explosion" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="5" >
+    <E key="player | $damage_projectile" value="9" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
@@ -42,7 +42,7 @@
     </E>
     <E key="physics_lantern_small" value="1" >
     </E>
-    <E key="rat" value="11" >
+    <E key="rat" value="22" >
     </E>
     <E key="shotgunner" value="1" >
     </E>

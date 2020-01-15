@@ -1,16 +1,38 @@
-<Stats deaths="5" kills="4" player_kills="0" player_projectile_count="0" >
+<Stats deaths="32" kills="30" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="1" >
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="5" >
+    </E>
+    <E key="NULL | $damage_fire" value="2" >
     </E>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="1" >
+    <E key="iceskull | $damage_melee" value="2" >
     </E>
-    <E key="player | $damage_slice" value="2" >
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="9" >
+    </E>
+    <E key="player | $damage_slice" value="5" >
+    </E>
+    <E key="sniper | $damage_projectile" value="5" >
+    </E>
+    <E key="worm_big | worm bite" value="1" >
     </E>
   </death_map>
   <kill_map>
-    <E key="rat" value="4" >
+    <E key="firebug" value="13" >
+    </E>
+    <E key="longleg" value="1" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="physics_lantern_small" value="1" >
+    </E>
+    <E key="rat" value="10" >
+    </E>
+    <E key="shotgunner" value="4" >
     </E>
   </kill_map>
 </Stats>

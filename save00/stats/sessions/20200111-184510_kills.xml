@@ -1,12 +1,5 @@
-<<<<<<< HEAD
-<Stats deaths="1" kills="26" player_kills="0" player_projectile_count="0" >
-  <death_map>
-    <E key="NULL | $damage_explosion" value="1" >
-    </E>
-=======
 <Stats deaths="0" kills="29" player_kills="0" player_projectile_count="0" >
   <death_map>
->>>>>>> 73c75e04da1d2a6daebb80bcf7c4507c04be4a12
   </death_map>
   <kill_map>
     <E key="bat" value="6" >
@@ -25,24 +18,16 @@
     </E>
     <E key="rat" value="1" >
     </E>
-<<<<<<< HEAD
-=======
     <E key="scavenger_smg" value="1" >
     </E>
     <E key="shotgunner" value="3" >
     </E>
->>>>>>> 73c75e04da1d2a6daebb80bcf7c4507c04be4a12
     <E key="slimeshooter" value="1" >
     </E>
     <E key="slimeshooter_weak" value="2" >
     </E>
     <E key="sniper" value="1" >
     </E>
-<<<<<<< HEAD
-    <E key="tank_rocket" value="1" >
-    </E>
-=======
->>>>>>> 73c75e04da1d2a6daebb80bcf7c4507c04be4a12
     <E key="zombie_weak" value="3" >
     </E>
   </kill_map>

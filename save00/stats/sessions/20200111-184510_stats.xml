@@ -1,13 +1,7 @@
 <Stats BUILD_NAME="Noita-Early-Access-Build-Sep 24 2019-16:57:41" >
-<<<<<<< HEAD
-  <stats dead="1" death_count="0" death_pos.x="1098.23" death_pos.y="4250.33" enemies_killed="26" gold="2174" gold_all="2709" gold_infinite="0" heart_containers="0" hp="100" items="14" kicks="3" killed_by=" | explosion" killed_by_extra="" places_visited="4" playtime="1075.2" playtime_str="0:17:55" projectiles_shot="25450" world_seed="2071418668" >
-  </stats>
-  <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="24" gold="2164" gold_all="2699" gold_infinite="0" heart_containers="0" hp="100" items="14" kicks="3" killed_by="" killed_by_extra="" places_visited="3" playtime="954.033" playtime_str="0:15:54" projectiles_shot="22542" world_seed="2071418668" >
-=======
   <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="29" gold="934" gold_all="2929" gold_infinite="0" heart_containers="0" hp="100" items="20" kicks="3" killed_by="" killed_by_extra="" places_visited="4" playtime="1119.98" playtime_str="0:18:39" projectiles_shot="27038" world_seed="2071418668" >
   </stats>
   <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="29" gold="934" gold_all="2929" gold_infinite="0" heart_containers="0" hp="100" items="20" kicks="3" killed_by="" killed_by_extra="" places_visited="4" playtime="1110.82" playtime_str="0:18:30" projectiles_shot="26977" world_seed="2071418668" >
->>>>>>> 73c75e04da1d2a6daebb80bcf7c4507c04be4a12
   </biome_baseline>
   <item_map>
     <impl::ConfigItemStats name="Gold nugget" pos.x="1080.44" pos.y="152.212" >
@@ -96,9 +90,6 @@
     </impl::ConfigItemStats>
     <impl::ConfigItemStats name="$perk_protection_electricity" pos.x="11.4316" pos.y="2954" >
     </impl::ConfigItemStats>
-<<<<<<< HEAD
-    <impl::ConfigItemStats name="Gold nugget" pos.x="320.509" pos.y="3241.21" >
-=======
     <impl::ConfigItemStats name="Gold nugget" pos.x="260.797" pos.y="3174.83" >
     </impl::ConfigItemStats>
     <impl::ConfigItemStats name="Gold nugget" pos.x="262.804" pos.y="3198.27" >
@@ -156,7 +147,6 @@
     <impl::ConfigItemStats name="Strong Rapid bolt wand" pos.x="-228.087" pos.y="4971" >
     </impl::ConfigItemStats>
     <impl::ConfigItemStats name="$perk_glass_cannon" pos.x="32.6541" pos.y="5002" >
->>>>>>> 73c75e04da1d2a6daebb80bcf7c4507c04be4a12
     </impl::ConfigItemStats>
   </item_map>
   <biomes_visited>

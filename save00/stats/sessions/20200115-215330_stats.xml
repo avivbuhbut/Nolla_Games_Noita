@@ -1,0 +1,10 @@
+<Stats BUILD_NAME="Noita-Early-Access-Build-Sep 24 2019-16:57:41" >
+  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="9.18333" playtime_str="0:00:09" projectiles_shot="0" world_seed="218043500" >
+  </stats>
+  <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" world_seed="0" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+  </biomes_visited>
+</Stats>

@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="41" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="52" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -6,11 +6,15 @@
     </E>
     <E key="acidshot" value="1" >
     </E>
+    <E key="bigfirebug" value="2" >
+    </E>
+    <E key="firebug" value="5" >
+    </E>
     <E key="frog" value="1" >
     </E>
     <E key="longleg" value="5" >
     </E>
-    <E key="miner" value="1" >
+    <E key="miner" value="2" >
     </E>
     <E key="miner_fire" value="2" >
     </E>
@@ -18,13 +22,15 @@
     </E>
     <E key="physics_barrel_oil" value="5" >
     </E>
+    <E key="physics_barrel_radioactive" value="2" >
+    </E>
     <E key="physics_lantern_small" value="1" >
     </E>
     <E key="shotgunner" value="1" >
     </E>
     <E key="shotgunner_weak" value="5" >
     </E>
-    <E key="slimeshooter" value="2" >
+    <E key="slimeshooter" value="3" >
     </E>
     <E key="slimeshooter_weak" value="4" >
     </E>

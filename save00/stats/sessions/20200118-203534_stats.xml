@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Early-Access-Build-Sep 24 2019-16:57:41" >
-  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="38" gold="58" gold_all="458" gold_infinite="0" heart_containers="1" hp="100" items="8" kicks="0" killed_by="" killed_by_extra="" places_visited="3" playtime="498.733" playtime_str="0:08:18" projectiles_shot="527" world_seed="1106623804" >
+  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="41" gold="58" gold_all="458" gold_infinite="0" heart_containers="1" hp="100" items="12" kicks="0" killed_by="" killed_by_extra="" places_visited="4" playtime="571.55" playtime_str="0:09:31" projectiles_shot="586" world_seed="1106623804" >
   </stats>
   <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="38" gold="58" gold_all="458" gold_infinite="0" heart_containers="1" hp="100" items="8" kicks="0" killed_by="" killed_by_extra="" places_visited="3" playtime="497.583" playtime_str="0:08:17" projectiles_shot="527" world_seed="1106623804" >
   </biome_baseline>
@@ -112,11 +112,25 @@
     </impl::ConfigItemStats>
     <impl::ConfigItemStats name="$perk_shield" pos.x="31.1118" pos.y="1418" >
     </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Destructive Rapid bolt wand" pos.x="281.199" pos.y="1627.01" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="" pos.x="277.302" pos.y="1636.27" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="221.643" pos.y="1893.25" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Genuine Rapid bolt wand" pos.x="14.5357" pos.y="1759.63" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="-103.22" pos.y="1806.26" >
+    </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Destructive Rapid bolt wand" pos.x="-329.925" pos.y="1737" >
+    </impl::ConfigItemStats>
   </item_map>
   <biomes_visited>
     <E key="$biome_coalmine" value="1" >
     </E>
     <E key="$biome_coalmine_alt" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
     </E>
     <E key="$biome_holymountain" value="1" >
     </E>

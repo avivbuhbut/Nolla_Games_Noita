@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Early-Access-Build-Sep 24 2019-16:57:41" >
-  <stats dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="29" gold="934" gold_all="2929" gold_infinite="0" heart_containers="0" hp="100" items="20" kicks="3" killed_by="" killed_by_extra="" places_visited="4" playtime="1119.98" playtime_str="0:18:39" projectiles_shot="27038" world_seed="2071418668" >
+  <stats dead="1" death_count="0" death_pos.x="286.2" death_pos.y="5173.13" enemies_killed="30" gold="944" gold_all="2939" gold_infinite="0" heart_containers="0" hp="100" items="20" kicks="3" killed_by=" | explosion" killed_by_extra="" places_visited="5" playtime="1189.5" playtime_str="0:19:49" projectiles_shot="27412" world_seed="2071418668" >
   </stats>
   <biome_baseline dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="29" gold="934" gold_all="2929" gold_infinite="0" heart_containers="0" hp="100" items="20" kicks="3" killed_by="" killed_by_extra="" places_visited="4" playtime="1110.82" playtime_str="0:18:30" projectiles_shot="26977" world_seed="2071418668" >
   </biome_baseline>
@@ -148,6 +148,8 @@
     </impl::ConfigItemStats>
     <impl::ConfigItemStats name="$perk_glass_cannon" pos.x="32.6541" pos.y="5002" >
     </impl::ConfigItemStats>
+    <impl::ConfigItemStats name="Gold nugget" pos.x="161.844" pos.y="5156.37" >
+    </impl::ConfigItemStats>
   </item_map>
   <biomes_visited>
     <E key="$biome_coalmine" value="1" >
@@ -155,6 +157,8 @@
     <E key="$biome_excavationsite" value="1" >
     </E>
     <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_snowcastle" value="1" >
     </E>
     <E key="$biome_snowcave" value="1" >
     </E>
